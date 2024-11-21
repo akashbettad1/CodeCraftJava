@@ -1,0 +1,20 @@
+# Java coding Practice
+
+A comprehensive repository for practicing coding questions, data structures, and algorithms in Java.
+
+## Features
+- Coding best practices for clean and efficient code.
+- Implementations of fundamental and advanced data structures.
+- Common algorithms with clear explanations and code examples.
+- Unit tests for every implementation.
+
+## Folder Structure
+- `codingpractices/`: Clean code and best practices.
+- `datastructures/`: Implementation of various data structures.
+- `algorithms/`: Sorting, searching, and advanced algorithms.
+- `designpatterns/`: Common OOP design patterns.
+
+## Getting Started
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/JavaInterviewPrep.git
