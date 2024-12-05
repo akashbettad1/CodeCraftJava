@@ -19,7 +19,7 @@ public class FindOnlyOddNumber {
         List<String> stringList = Arrays.asList("sky", "fly", "Monica", "Jack", "Czck");
         List<String> stringsWithVowels = stringList.stream()
                 .filter(s -> s.toLowerCase().matches(".*[aeiou].*"))
-                .collect(Collectors.toList());
+                .toList();
 
         System.out.println("Strings containing vowels: " + stringsWithVowels);
     }
